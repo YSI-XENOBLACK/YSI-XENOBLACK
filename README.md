@@ -7,3 +7,7 @@ Meu nome é mark oliveira e sou administrador do canal de desenvolvimento web do
 
 #### 💻 Tecnologias que utilizo
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+
+
+<br>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" />
