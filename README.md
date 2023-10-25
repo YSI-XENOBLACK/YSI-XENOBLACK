@@ -9,15 +9,20 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </div>
-    
+ 
+  <h1 align="center">Melhores Tecnologias <3</h1>
   
+   </div>     
+ 
+    
+
+    
+   [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/channel/UCizPFk8Ck3I18PJJTKX6-CQ) 
+     [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/channel/UCizPFk8Ck3I18PJJTKX6-CQ) 
+     [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.youtube.com/channel/UCizPFk8Ck3I18PJJTKX6-CQ) 
+  <br>
+  Apaixonado por Tecnologia, Um bom profisional exerçe um bom Trabalho!
+
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.youtube.com/@MARKTheDEVPro/featured">
       <img width="30" src="gmail.svg">
@@ -32,9 +37,14 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
+
+
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Mark+Oliveira!;" />  
   </h1>
   
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" />
+
+ 
+
  
