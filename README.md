@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
  
-  <h1 align="center">Melhores Tecnologias <3</h1>
+  <h1 align="center">Tecnologias Que, Uso <3</h1>
   
    </div>     
  
