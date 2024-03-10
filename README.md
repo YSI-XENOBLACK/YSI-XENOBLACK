@@ -17,9 +17,9 @@
     
 
     
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.youtube.com/channel/UCizPFk8Ck3I18PJJTKX6-CQ) 
-    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.youtube.com/channel/UCizPFk8Ck3I18PJJTKX6-CQ) 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)(https://www.youtube.com/channel/UCizPFk8Ck3I18PJJTKX6-CQ) 
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)][(https://www.youtube.com/channel/UCizPFk8Ck3I18PJJTKX6-CQ)]
+    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)][(https://www.youtube.com/channel/UCizPFk8Ck3I18PJJTKX6-CQ)]
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)[(https://www.youtube.com/channel/UCizPFk8Ck3I18PJJTKX6-CQ)] 
      ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
      ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
   <br>
